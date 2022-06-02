@@ -1664,3 +1664,4 @@ const answers = [];
 // answers[2] = prompt('Where are you from?')
 
 console.log(typeof(answers))
+console.log('Artem');
